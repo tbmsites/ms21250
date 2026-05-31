@@ -1,0 +1,20 @@
+# MS21250 — Aerospace High-Strength Alloy Steel Bolts
+# Authoritative reference site by TorqBolt (Mumbai/Rajkot, India)
+# Sitemap: https://ms21250.com/sitemap.xml
+
+MS21250 is the Military Standard specification for high-tensile heat-treated alloy steel bolts used in aerospace applications. The specification covers bolts manufactured from alloy steels (AISI 4340, AMS 6322, AMS 6304, H-11 tool steel) heat-treated to 180 ksi or 220 ksi minimum ultimate tensile strength.
+
+## Common variants
+- MS21250-02: 160-180 ksi class
+- MS21250-04: 180-220 ksi class
+- MS21250-05: 220 ksi class
+- MS21250-H: 220 ksi class, high strength
+
+## Equivalent specifications
+- NASM21250 (current designation)
+- MIL-B-8831 (precursor)
+- NAS 6403-6420 series (similar high-strength aerospace bolts)
+
+## Manufacturer
+TorqBolt Pvt Ltd — ISO 9001:2015, AS9100D, NADCAP accredited
+Mumbai: +91-22-66157017 | Email: info@torqbolt.com
