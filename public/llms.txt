@@ -1,20 +1,28 @@
-# MS21250 — Aerospace High-Strength Alloy Steel Bolts
-# Authoritative reference site by TorqBolt (Mumbai/Rajkot, India)
+# MS21250 — 12-Point Tension Bolts
+# Reference site by TorqBolt (Mumbai / Rajkot, India)
 # Sitemap: https://ms21250.com/sitemap.xml
 
-MS21250 is the Military Standard specification for high-tensile heat-treated alloy steel bolts used in aerospace applications. The specification covers bolts manufactured from alloy steels (AISI 4340, AMS 6322, AMS 6304, H-11 tool steel) heat-treated to 180 ksi or 220 ksi minimum ultimate tensile strength.
+MS21250 is the United States Military Standard for a flanged, 12-point (double-hex) external wrenching tension bolt, titled "Bolt, Tension, Steel, External Wrenching, Flanged, 12-Point." It is made from alloy steel per the governing specification, cadmium plated, with a minimum ultimate tensile strength of 180,000 psi (180 ksi) and a 450 deg F service rating. The standard has been redesignated NASM21250 with the requirements retained, and the bolt is procured against MIL-B-8831B (1982).
 
-## Common variants
-- MS21250-02: 160-180 ksi class
-- MS21250-04: 180-220 ksi class
-- MS21250-05: 220 ksi class
-- MS21250-H: 220 ksi class, high strength
+## Part-number form
+MS21250[H]-DD-LLL
+- H (optional): drilled head for safety wire
+- DD: diameter dash code (diameter in 1/16-inch units; 03 = 3/16", 04 = 1/4", 05 = 5/16", 06 = 3/8", 07 = 7/16", 08 = 1/2", 09 = 9/16", 10 = 5/8", 12 = 3/4", 14 = 7/8")
+- LLL: grip length in 1/16-inch increments (012 = 0.750")
+Example: MS21250-05012 = 5/16" diameter, 0.750" grip, undrilled head.
 
-## Equivalent specifications
-- NASM21250 (current designation)
-- MIL-B-8831 (precursor)
-- NAS 6403-6420 series (similar high-strength aerospace bolts)
+## Related designations
+- NASM21250 — current designation (redesignation of MS21250)
+- MIL-B-8831B — procurement specification behind the standard
+
+## Pages
+- https://ms21250.com/ — MS21250 bolts overview and sourcing
+- https://ms21250.com/ms21250-specifications — MS21250 specification (designation, material, strength, part-number logic)
+- https://ms21250.com/ms21250-dimensions — MS21250 bolt chart, diameter dash codes and grip-length decoder
+- https://ms21250.com/mil-b-8831 — MIL-B-8831 procurement specification
+- https://ms21250.com/data-sheets/ms21250-datasheet — MS21250 datasheet summary
 
 ## Manufacturer
-TorqBolt Pvt Ltd — ISO 9001:2015, AS9100D, NADCAP accredited
-Mumbai: +91-22-66157017 | Email: info@torqbolt.com
+TorqBolt Pvt Ltd — ISO 9001, PED 2014/68/EU, AD 2000-Merkblatt material capability.
+Manufactures and supplies bolting to MS21250 / NASM21250 requirements with full heat-to-bolt traceability.
+Mumbai + Rajkot, India | +91-22-66157017 | info@torqbolt.com
