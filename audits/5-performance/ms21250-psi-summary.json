@@ -1,0 +1,18 @@
+{
+  "captured": "2026-06-01",
+  "tool": "Lighthouse 12.8.2 (desktop, throttling ON)",
+  "surface": "preview channel ms21250-e0e7f--preview-build5 (NOT production)",
+  "pages": [
+    {"page":"home",          "perf":63,"a11y":74,"best_practices":100,"seo":69,"lcp_ms":3647,"cls":0.00003,"tbt_ms":15},
+    {"page":"specifications","perf":65,"a11y":74,"best_practices":100,"seo":69,"lcp_ms":3418,"cls":0.00003,"tbt_ms":20},
+    {"page":"dimensions",    "perf":63,"a11y":74,"best_practices":100,"seo":69,"lcp_ms":3728,"cls":0.00003,"tbt_ms":36},
+    {"page":"mil-b-8831",    "perf":64,"a11y":74,"best_practices":100,"seo":69,"lcp_ms":3643,"cls":0.00002,"tbt_ms":29}
+  ],
+  "notes": {
+    "seo_69": "Uniform 0.69 across all pages = Firebase PREVIEW channel sends X-Robots-Tag: noindex, which fails Lighthouse 'page is indexable' audit. Expected to clear to ~0.9+ on production (ms21250.com). VERIFY post-promotion.",
+    "perf_63_65": "Lighthouse throttling ON + preview URL. Fleet desktop-unthrottled (DataForSEO) scores 96-99 for the same canonical chrome. LCP driver = render-blocking CSS (bootstrap3 + maxcdn bootstrap + fontawesome CDN), inherited fleet chrome.",
+    "cls_0": "Perfect — zero layout shift.",
+    "bp_100": "Best practices perfect.",
+    "a11y_74": "Fleet-level: color-contrast + form labels in the canonical chrome. Same as astma320/incoloy925."
+  }
+}
